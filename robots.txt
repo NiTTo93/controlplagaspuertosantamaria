@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://controlplagaspuertosantamaria.es/sitemap.xml
