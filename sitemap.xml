@@ -11,4 +11,19 @@
   <url><loc>https://controlplagaspuertosantamaria.es/sectores/valdelagrana.html</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://controlplagaspuertosantamaria.es/sectores/el-molino.html</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://controlplagaspuertosantamaria.es/sectores/la-puntilla.html</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
+  <url>
+    <loc>https://controlplagaspuertosantamaria.es/aviso-legal.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://controlplagaspuertosantamaria.es/politica-privacidad.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://controlplagaspuertosantamaria.es/politica-cookies.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <priority>0.3</priority>
+  </url>
 </urlset>
