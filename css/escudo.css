@@ -201,3 +201,6 @@ footer.ft{background:var(--primary);color:#9fb0cd;padding:60px 0 34px;font-size:
   .hero-stats{flex-direction:column}
   .hero-stats div{border-right:0;border-bottom:1px solid var(--line)}
 }
+
+/* FIX solape header sticky vs hero en móvil (11-nov) */
+@media(max-width:768px){.page-hero,.hero{padding-top:150px;padding-bottom:40px}}
