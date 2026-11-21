@@ -1,1 +1,11 @@
 AddType text/markdown .md .txt
+
+# HTML siempre frescos (el nav/cambios se ven al instante)
+<FilesMatch "\.html$">
+  Header set Cache-Control "no-cache, must-revalidate"
+</FilesMatch>
+
+# HTML y assets cacheados correctamente
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+</IfModule>
