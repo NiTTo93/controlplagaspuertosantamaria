@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1060" viewBox="0 0 1000 1060" font-family="Work Sans, Arial, sans-serif">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#13213B"/><stop offset="1" stop-color="#1e3357"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1060" fill="#ffffff"/>
+  <rect width="1000" height="150" fill="url(#hdr)"/>
+  <circle cx="76" cy="75" r="34" fill="rgba(255,255,255,.12)"/>
+  <ellipse cx="76" cy="80" rx="22" ry="16" fill="#fff" opacity=".9"/><circle cx="98" cy="70" r="10" fill="#fff" opacity=".9"/><circle cx="101" cy="67" r="2" fill="#13213B"/><path d="M 54 82 Q 40 90 42 78" stroke="#fff" stroke-width="3" fill="none"/><circle cx="98" cy="58" r="3" fill="#fff" opacity=".7"/>
+  <text x="130" y="62" font-family="Sora, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Desratización profesional</text>
+  <text x="130" y="96" font-size="16" fill="#9fb0cd">Portacebos homologados y censo de consumo</text>
+  <text x="130" y="122" font-size="13" fill="#6c82a8" letter-spacing="1">PROTOCOLO ESCUDO · EL PUERTO DE SANTA MARÍA</text>
+  <rect x="60" y="205" width="880" height="130" rx="16" fill="#EEF3FC"/>
+  <circle cx="115" cy="270" r="30" fill="#2361EB"/>
+  <text x="115" y="281" font-family="Sora, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="170" y="257" font-family="Sora, Arial, sans-serif" font-size="20" font-weight="700" fill="#13213B">Censo de actividad</text>
+  <text x="170" y="287" font-size="15.5" fill="#5d6b78">Inspección con luz UV: los excrementos de roedor fluorescen. Mapeamos pasillos,</text>
+  <text x="170" y="311" font-size="15.5" fill="#5d6b78">refugios y puntos de entrada reales.</text>
+  <path d="M 500 339 L 500 359" stroke="#2361EB" stroke-width="4"/>
+  <path d="M 492 353 L 500 363 L 508 353" fill="none" stroke="#2361EB" stroke-width="4"/>
+  <rect x="60" y="355" width="880" height="130" rx="16" fill="#EEF3FC"/>
+  <circle cx="115" cy="420" r="30" fill="#2361EB"/>
+  <text x="115" y="431" font-family="Sora, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="170" y="407" font-family="Sora, Arial, sans-serif" font-size="20" font-weight="700" fill="#13213B">Portacebos homologados</text>
+  <text x="170" y="437" font-size="15.5" fill="#5d6b78">Cajas de seguridad cerradas UNE: el rodenticida solo es accesible para el roedor.</text>
+  <text x="170" y="461" font-size="15.5" fill="#5d6b78">Niños, mascotas y fauna nunca lo tocan.</text>
+  <path d="M 500 489 L 500 509" stroke="#2361EB" stroke-width="4"/>
+  <path d="M 492 503 L 500 513 L 508 503" fill="none" stroke="#2361EB" stroke-width="4"/>
+  <rect x="60" y="505" width="880" height="130" rx="16" fill="#EEF3FC"/>
+  <circle cx="115" cy="570" r="30" fill="#2361EB"/>
+  <text x="115" y="581" font-family="Sora, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="170" y="557" font-family="Sora, Arial, sans-serif" font-size="20" font-weight="700" fill="#13213B">Control de consumo</text>
+  <text x="170" y="587" font-size="15.5" fill="#5d6b78">Revisión cada 7-10 días pesando el cebo: el consumo descendente confirma la</text>
+  <text x="170" y="611" font-size="15.5" fill="#5d6b78">erradicación progresiva de la colonia.</text>
+  <path d="M 500 639 L 500 659" stroke="#2361EB" stroke-width="4"/>
+  <path d="M 492 653 L 500 663 L 508 653" fill="none" stroke="#2361EB" stroke-width="4"/>
+  <rect x="60" y="655" width="880" height="130" rx="16" fill="#EEF3FC"/>
+  <circle cx="115" cy="720" r="30" fill="#2361EB"/>
+  <text x="115" y="731" font-family="Sora, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff" text-anchor="middle">4</text>
+  <text x="170" y="707" font-family="Sora, Arial, sans-serif" font-size="20" font-weight="700" fill="#13213B">Sellado de accesos</text>
+  <text x="170" y="737" font-size="15.5" fill="#5d6b78">Cerramos los huecos identificados con materiales que el roedor no puede roer. Un</text>
+  <text x="170" y="761" font-size="15.5" fill="#5d6b78">hueco de 6 cm basta para un ratón.</text>
+  <path d="M 500 789 L 500 809" stroke="#2361EB" stroke-width="4"/>
+  <path d="M 492 803 L 500 813 L 508 803" fill="none" stroke="#2361EB" stroke-width="4"/>
+  <rect x="60" y="805" width="880" height="130" rx="16" fill="#EEF3FC"/>
+  <circle cx="115" cy="870" r="30" fill="#2361EB"/>
+  <text x="115" y="881" font-family="Sora, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff" text-anchor="middle">5</text>
+  <text x="170" y="857" font-family="Sora, Arial, sans-serif" font-size="20" font-weight="700" fill="#13213B">Acta final</text>
+  <text x="170" y="887" font-size="15.5" fill="#5d6b78">Plano de puntos, consumo registrado a cero y recomendaciones estructurales.</text>
+  <text x="170" y="911" font-size="15.5" fill="#5d6b78">Garantía por escrito.</text>
+  <rect y="970" width="1000" height="90" fill="#13213B"/>
+  <text x="60" y="1008" font-family="Sora, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">🛡️ Escudo Plagas</text>
+  <text x="940" y="1008" font-size="15" fill="#9fb0cd" text-anchor="end">El Puerto de Santa María · 📞 856 634 148</text>
+  <text x="60" y="1032" font-size="12" fill="#6c82a8">escudoplagas · respuesta en menos de 3 horas · garantía por escrito</text>
+</svg>

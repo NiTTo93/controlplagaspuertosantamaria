@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" font-family="Work Sans, Arial, sans-serif">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#13213B"/><stop offset="1" stop-color="#1e3357"/></linearGradient>
+  </defs>
+  <rect width="1000" height="700" fill="#ffffff"/>
+  <rect width="1000" height="130" fill="url(#hdr)"/>
+  <text x="60" y="56" font-family="Sora, Arial" font-size="28" font-weight="700" fill="#ffffff">Cobertura de Escudo Plagas</text>
+  <text x="60" y="88" font-size="15" fill="#9fb0cd">Los 4 sectores de El Puerto de Santa María · respuesta en menos de 3 horas</text>
+
+  <!-- agua (Bahía/Guadalete) -->
+  <path d="M 0 700 L 0 520 Q 180 480 340 520 Q 520 560 700 530 Q 860 505 1000 540 L 1000 700 Z" fill="#cfe3f7"/>
+  <path d="M 0 700 L 0 560 Q 200 520 380 560 Q 560 600 740 570 Q 880 545 1000 575 L 1000 700 Z" fill="#b5d2f0"/>
+  <text x="180" y="640" font-size="14" fill="#5b83b5" font-style="italic">Bahía de Cádiz · Guadalete</text>
+
+  <!-- barrios como zonas -->
+  <g>
+    <!-- Centro -->
+    <circle cx="330" cy="380" r="95" fill="#EEF3FC" stroke="#2361EB" stroke-width="3"/>
+    <circle cx="330" cy="380" r="26" fill="#2361EB"/>
+    <text x="330" y="388" font-family="Sora, Arial" font-size="18" font-weight="800" fill="#fff" text-anchor="middle">C</text>
+    <text x="330" cy="380" y="445" font-size="16" font-weight="700" fill="#13213B" text-anchor="middle">Centro</text>
+    <text x="330" y="466" font-size="12.5" fill="#5d6b78" text-anchor="middle">Casco histórico · hostelería</text>
+  </g>
+  <g>
+    <!-- El Molino -->
+    <circle cx="560" cy="300" r="85" fill="#EEF3FC" stroke="#2361EB" stroke-width="3"/>
+    <circle cx="560" cy="300" r="26" fill="#2361EB"/>
+    <text x="560" y="308" font-family="Sora, Arial" font-size="18" font-weight="800" fill="#fff" text-anchor="middle">M</text>
+    <text x="560" y="358" font-size="16" font-weight="700" fill="#13213B" text-anchor="middle">El Molino</text>
+    <text x="560" y="379" font-size="12.5" fill="#5d6b78" text-anchor="middle">Los Toruños · roedores otoño</text>
+  </g>
+  <g>
+    <!-- La Puntilla -->
+    <circle cx="250" cy="270" r="80" fill="#EEF3FC" stroke="#2361EB" stroke-width="3"/>
+    <circle cx="250" cy="270" r="26" fill="#2361EB"/>
+    <text x="250" y="278" font-family="Sora, Arial" font-size="18" font-weight="800" fill="#fff" text-anchor="middle">P</text>
+    <text x="250" y="325" font-size="16" font-weight="700" fill="#13213B" text-anchor="middle">La Puntilla</text>
+    <text x="250" y="346" font-size="12.5" fill="#5d6b78" text-anchor="middle">Segundas residencias</text>
+  </g>
+  <g>
+    <!-- Valdelagrana -->
+    <circle cx="480" cy="480" r="90" fill="#EEF3FC" stroke="#2361EB" stroke-width="3"/>
+    <circle cx="480" cy="480" r="26" fill="#2361EB"/>
+    <text x="480" y="488" font-family="Sora, Arial" font-size="18" font-weight="800" fill="#fff" text-anchor="middle">V</text>
+    <text x="480" y="545" font-size="16" font-weight="700" fill="#13213B" text-anchor="middle">Valdelagrana</text>
+    <text x="480" y="566" font-size="12.5" fill="#5d6b78" text-anchor="middle">Playa · hostelería de temporada</text>
+  </g>
+
+  <!-- líneas de conexión -->
+  <line x1="330" y1="380" x2="560" y2="300" stroke="#2361EB" stroke-width="2" stroke-dasharray="6,5" opacity=".5"/>
+  <line x1="330" y1="380" x2="250" y2="270" stroke="#2361EB" stroke-width="2" stroke-dasharray="6,5" opacity=".5"/>
+  <line x1="330" y1="380" x2="480" y2="480" stroke="#2361EB" stroke-width="2" stroke-dasharray="6,5" opacity=".5"/>
+
+  <!-- footer -->
+  <rect y="610" width="1000" height="90" fill="#13213B"/>
+  <text x="60" y="648" font-family="Sora, Arial" font-size="17" font-weight="700" fill="#ffffff">🛡️ Escudo Plagas · El Puerto de Santa María</text>
+  <text x="940" y="648" font-size="15" fill="#9fb0cd" text-anchor="end">📞 856 634 148 · menos de 3 horas</text>
+  <text x="60" y="672" font-size="12" fill="#6c82a8">Todas las zonas de la Bahía · controldeplagaspuertosantamaria.es</text>
+</svg>
